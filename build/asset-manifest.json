@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec8f8951.css",
+    "main.js": "/static/js/main.e6922e7a.js",
+    "static/media/2.png": "/static/media/2.1e03fc769ee96ce89155.png",
+    "static/media/3.png": "/static/media/3.377604dc6743d7754f65.png",
+    "static/media/1.png": "/static/media/1.39e3e710643a08c05a95.png",
+    "static/media/logo.png": "/static/media/logo.6a95ad03a79f8034175d.png",
+    "static/media/brake pad.png": "/static/media/brake pad.fe7e8f43b1bdd6f3f0b7.png",
+    "index.html": "/index.html",
+    "main.ec8f8951.css.map": "/static/css/main.ec8f8951.css.map",
+    "main.e6922e7a.js.map": "/static/js/main.e6922e7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec8f8951.css",
+    "static/js/main.e6922e7a.js"
+  ]
+}
